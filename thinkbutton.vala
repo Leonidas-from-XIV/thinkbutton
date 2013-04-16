@@ -1,5 +1,5 @@
 /**
- *  thinkvantage - Plays one sound file and terminate on second call
+ *  thinkbutton - Plays one sound file and terminate on second call
  *  Copyright (C) 2011  Marek Kubica
  *
  *  This program is free software: you can redistribute it and/or modify
@@ -17,7 +17,7 @@
  */
 
 // Compile it with:
-// valac thinkvantage.vala --pkg libcanberra --pkg libcanberra-gtk --pkg unique-1.0
+// valac thinkbutton.vala --pkg libcanberra --pkg libcanberra-gtk --pkg unique-1.0
 
 // define our possible commands
 enum Command {
