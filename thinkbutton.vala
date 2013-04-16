@@ -1,6 +1,6 @@
 /**
  *  thinkbutton - Plays one sound file and terminate on second call
- *  Copyright (C) 2011  Marek Kubica
+ *  Copyright (C) 2011, 2013  Marek Kubica
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
